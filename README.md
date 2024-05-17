@@ -15,7 +15,7 @@
 # Social 
 <a href="https://www.youtube.com/@MrWest"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a>
 <a href="https://open.spotify.com/playlist/6zEm43E42itMbHlyjq1aep?si=65a73fced207448e"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /> </a>
-<a href="https://twitter.com/mrwestu"> <img width="35px" src="https://toppng.com/uploads/preview/twitter-x-new-logo-icon-png-11692480121koxvq54was.webp" /> </a>
+<a href="https://twitter.com/mistowest"> <img width="35px" src="https://toppng.com/uploads/preview/twitter-x-new-logo-icon-png-11692480121koxvq54was.webp" /> </a>
 
 # Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
