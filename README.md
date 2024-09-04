@@ -21,3 +21,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+
+# Platforms
+<a href="https://wokwi.com/makers/mrwest"><img src="https://scontent.fbsb10-1.fna.fbcdn.net/v/t39.30808-1/274697405_404517471478609_1469547816363376057_n.png?stp=dst-png_s200x200&_nc_cat=100&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=IW18tjHIi3kQ7kNvgG54cgt&_nc_ht=scontent.fbsb10-1.fna&oh=00_AYAoSHhWhcDCczAbXTSZMyXQX_aKkjMdaIQpszmE8hzbOQ&oe=66DE3A1A" width="50"></a>
