@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://themrwest.github.io/img/gifs/1.gif" align="center" width="500">
+    <img src="https://themrwest.github.io/img/gifs/1.gif" align="center" width="450">
 </div>
 
 <div>
