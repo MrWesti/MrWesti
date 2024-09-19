@@ -29,4 +29,4 @@
 <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9">
 
 # Platforms
-<a href="https://wokwi.com/makers/mrwest"><img src="https://scontent.fbsb10-1.fna.fbcdn.net/v/t39.30808-1/274697405_404517471478609_1469547816363376057_n.png?stp=dst-png_s200x200&_nc_cat=100&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=IW18tjHIi3kQ7kNvgG54cgt&_nc_ht=scontent.fbsb10-1.fna&oh=00_AYAoSHhWhcDCczAbXTSZMyXQX_aKkjMdaIQpszmE8hzbOQ&oe=66DE3A1A" width="45"></a>
+<a href="https://wokwi.com/makers/mrwest"><img src="https://www.luisllamas.es/wp-content/uploads/2022/12/wowki.png" width="200"></a>
