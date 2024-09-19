@@ -30,3 +30,6 @@
 
 # Platforms
 <a href="https://wokwi.com/makers/mrwest"><img src="https://www.luisllamas.es/wp-content/uploads/2022/12/wowki.png" width="200"></a>
+# Operational System
+
+<img src="img/dev.png" align="center" width="700">
